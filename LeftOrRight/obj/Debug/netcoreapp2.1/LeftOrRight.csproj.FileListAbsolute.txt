@@ -1,0 +1,11 @@
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\LeftOrRight\LeftOrRight\bin\Debug\netcoreapp2.1\LeftOrRight.deps.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\LeftOrRight\LeftOrRight\bin\Debug\netcoreapp2.1\LeftOrRight.runtimeconfig.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\LeftOrRight\LeftOrRight\bin\Debug\netcoreapp2.1\LeftOrRight.runtimeconfig.dev.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\LeftOrRight\LeftOrRight\bin\Debug\netcoreapp2.1\LeftOrRight.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\LeftOrRight\LeftOrRight\bin\Debug\netcoreapp2.1\LeftOrRight.pdb
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\LeftOrRight\LeftOrRight\obj\Debug\netcoreapp2.1\LeftOrRight.csprojAssemblyReference.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\LeftOrRight\LeftOrRight\obj\Debug\netcoreapp2.1\LeftOrRight.csproj.CoreCompileInputs.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\LeftOrRight\LeftOrRight\obj\Debug\netcoreapp2.1\LeftOrRight.AssemblyInfoInputs.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\LeftOrRight\LeftOrRight\obj\Debug\netcoreapp2.1\LeftOrRight.AssemblyInfo.cs
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\LeftOrRight\LeftOrRight\obj\Debug\netcoreapp2.1\LeftOrRight.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\LeftOrRight\LeftOrRight\obj\Debug\netcoreapp2.1\LeftOrRight.pdb
